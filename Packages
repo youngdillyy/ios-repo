@@ -1,0 +1,18 @@
+Package: com.example.ios1256-polyfill
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Your Name <you@example.com>
+Depends: mobilesubstrate, preferenceloader
+Filename: deb/ios1256-polyfill_1.0.0_iphoneos-arm.deb
+Size: 6286
+MD5sum: 406714b9a8e3b6f8d5d084dc416ff41c
+SHA1: 202ac625f697a5e409d7cb02c3735ff8e8f4cc9d
+SHA256: 370608792a3f4f4bab0a7ae2e376d6f22dbebeba6756c1bb8e5d593d70143830
+Section: Tweaks
+Priority: optional
+Description: Targeted polyfill bundle for Safari on iOS 12.5.6 (WebKit 606).
+ Patches APIs confirmed missing in WebKit 606: ResizeObserver, IntersectionObserver,
+ CSS.supports via JS, AbortController, structuredClone, at(), hasOwn,
+ Crypto.randomUUID, EventTarget constructor, aggregate errors, and more.
+Name: iOS 12.5.6 Safari Polyfill
+

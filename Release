@@ -1,0 +1,20 @@
+Origin: iOS 12.5.6 Polyfill Repo
+Label: iOS12 Polyfill
+Suite: stable
+Version: 1.0
+Codename: ios12polyfill
+Architectures: iphoneos-arm
+Components: main
+Description: Personal repo for iOS 12.5.6 Safari polyfill tweak
+MD5Sum:
+ 6c05ad338f2b794769368840e66b18f5 763 Packages
+ f48b320e018e7dbd73ff41f091048876 542 Packages.gz
+ f1a0933b1c3cef50fe0b9c37613d5c5f 603 Packages.bz2
+SHA1:
+ e6e1798c7b20df125747f572ea790efc5e31c1d0 763 Packages
+ 25638f77678809292fd185c594d32f7e857c3c73 542 Packages.gz
+ 70075d7b05388d0f25cace14fb8a6da8af79f131 603 Packages.bz2
+SHA256:
+ 79b0f0e317fb862bd3b4bb1cc97f99c33d2cc0a98de170188951181103265243 763 Packages
+ 7c51a6389de9acff8dd5d6414e755d8e1e00f24535d5366804d45a682b6a94b8 542 Packages.gz
+ 550f2c62b4b8d423c2d9dd734fad9563452f76eda6e917950fb499aa517f5d29 603 Packages.bz2
